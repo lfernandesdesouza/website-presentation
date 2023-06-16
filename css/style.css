@@ -1,11 +1,28 @@
 body{
-
+	margin: 0;
+	font-family: Helvetica;
 }
 
 header{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: red;
 	text-align: center;
 }
 
-img header{
+header h1{
+	color: white;
+}
 
+header img{
+	border-radius: 70px;
+}
+
+main{
+	margin: 50px;
+}
+
+main h1{
+	margin: 70px;
+	
 }
