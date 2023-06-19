@@ -1,28 +1,67 @@
 body{
 	margin: 0;
 	font-family: Helvetica;
+	color: white;
 }
 
 header{
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: red;
+	background-color: navy;
 	text-align: center;
 }
 
 header h1{
-	color: white;
+
 }
 
 header img{
 	border-radius: 70px;
+	width: 450px;
 }
 
 main{
-	margin: 50px;
+	background-color: cornflowerblue;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: ghostwhite;
 }
 
-main h1{
-	margin: 70px;
-	
+main h2{
+	margin: 20px;
 }
+
+main p{
+	margin: 20px;
+	text-indent: 20px;
+}
+
+main img{
+	margin: 20px;
+	padding-bottom: 0px;
+	line-height: 0.000001px;
+}
+
+footer{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: dodgerblue;
+}
+
+footer h3{
+	margin: 20px;
+}
+
+footer p{
+	margin: 20px;
+}
+
+p.caption{
+	line-height: 0.00000001px;
+	padding-top: 0px;
+	margin: 0px;
+	color: red;
+	font-size: 15px;
+}
+
+mai
